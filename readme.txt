@@ -1,3 +1,2 @@
-Hello World, 
-
-How I would like to learn all the programming languages.
+Hello World
+I like pie, and programming and macarena in this order: pie > macarena > programming
